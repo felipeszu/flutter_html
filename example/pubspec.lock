@@ -287,13 +287,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.4+1"
-  webview_flutter:
+  webview_media:
     dependency: transitive
     description:
-      name: webview_flutter
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.3.21"
+      path: "."
+      ref: HEAD
+      resolved-ref: a425c4fb67602340ba9be2c90905c4361244bdd1
+      url: "https://github.com/skore-io/webview_media"
+    source: git
+    version: "0.1.2"
   xml:
     dependency: transitive
     description:
